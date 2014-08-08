@@ -514,7 +514,7 @@ function Guard:uriFilterModule(ip,reqUri)
 	end
 end
 --post body 过滤操作
-function Guard:postbodyFilterModule(ip,reqUri)
+function Guard:postFilterModule(ip,reqUri)
         ngx.req.read_body()
         local args, err = ngx.req.get_post_args()
         ngx.header.content_type = "text/html"
@@ -524,15 +524,19 @@ function Guard:postbodyFilterModule(ip,reqUri)
         end
         for key, val in pairs(args) do
                 if type(val) == "table" then
-                        ngx.say(key, ": ", table.concat(val, ", "))
+			val=table.concat(val, ", ")
+                        --ngx.say(key, ": ", table.concat(val, ", "))
+                        --if ngx.re.match(value,_Conf.postProtect,'i')then
+                        --	ngx.exit(403)
+			--end
+		end
+                --else
+                if ngx.re.match(val,_Conf.postProtect,'i') then
+			--ngx.say(key, ": ", val)
                         ngx.exit(403)
-                else
-                        if ngx.re.match(val,'script','i') then
-                                ngx.exit(403)
-                        else
-                                ngx.say(key, ": ", val)
-                                ngx.exit(200)
-                        end
+                --else
+                --        ngx.say(key, ": ", 'aa')
+                --        ngx.exit(200)
                 end
         end
 end

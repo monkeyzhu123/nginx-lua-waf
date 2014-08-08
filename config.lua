@@ -97,6 +97,7 @@ local Config = {
 
 	--对url进行匹配
 	uriFilter   = {state="On",uriReFile = baseDir.."url-protect/uri.txt"},
+	postFilter   = {state="On",postReFile = baseDir.."url-protect/post.txt"},
 }
 
 return Config

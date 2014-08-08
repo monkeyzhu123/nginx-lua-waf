@@ -136,6 +136,7 @@ _Conf = {
 	whiteTime = Config.whiteTime,
 	captchaKey = Config.captchaKey,
 	uriFilter = Config.uriFilter,
+	postFilter=Config.postFilter,
 
 	--解析开关设置
 	limitReqModulesIsOn = optionIsOn(Config.limitReqModules.state),
@@ -146,6 +147,7 @@ _Conf = {
 	JsJumpModulesIsOn = optionIsOn(Config.JsJumpModules.state),
 	cookieModulesIsOn = optionIsOn(Config.cookieModules.state),
 	uriModulesIsOn =optionIsOn(Config.uriFilter.state),
+	postModulesIsOn =optionIsOn(Config.postFilter.state),
 
 	--解析文件到正则
 	redirectUrlProtect = parseRuleFile(Config.redirectModules.urlProtect),
@@ -154,6 +156,7 @@ _Conf = {
 	cookieUrlProtect = parseRuleFile(Config.cookieModules.urlProtect),
 	whiteIpList = parseRuleFile(Config.whiteIpModules.ipList),
 	uriProtect = parseRuleFile(Config.uriFilter.uriReFile),
+	postProtect =parseRuleFile(Config.postFilter.postReFile),
 
 	--读取文件到内存
 	captchaPage = readFile2Mem(Config.captchaPage),
@@ -203,6 +206,12 @@ if _Conf.uriModulesIsOn then
         _Conf.dict_captcha:set("urifilter",1)
 else
         _Conf.dict_captcha:set("urifilter",0)
+end
+--判断post过滤是否开启
+if _Conf.uriModulesIsOn then
+	_Conf.dict_captcha:set("postfilter",1)
+else
+	_Conf.dict_captcha:set("postfilter",0)
 end
 
 --判断cookieModules是否开启

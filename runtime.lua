@@ -67,31 +67,12 @@ else
                 	Guard:uriFilterModule(ip,reqUri)
 
 		end
-		--header-test
-		local header=1
-		if header then
-			ngx.req.read_body()
-			local args, err = ngx.req.get_post_args()
-			ngx.header.content_type = "text/html"
-			if not args then
-		                ngx.say("failed to get post args: ", err)
-                		return
-		        end
-		        for key, val in pairs(args) do
-                		if type(val) == "table" then
-			                ngx.say(key, ": ", table.concat(val, ", "))
-					ngx.exit(403)
-	                	else
-					if ngx.re.match(val,'script','i') then
-						ngx.exit(403)
-					else
-					        ngx.say(key, ": ", val)
-						ngx.exit(200)
-					end
-                		end
-		        end
+		--post参数过滤模块
+		local postOn=_Conf.dict_captcha:get("postfilter")
+		if postOn==1 then
+			Guard:debug("[postFilterModules] postFilterModules is on.",ip,reqUri)
+			Guard:postFilterModule(ip,reuUri)
 		end
-		
 			
 	end	
 end
