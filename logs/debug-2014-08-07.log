@@ -1,0 +1,698 @@
+2014-08-07 03:43:14 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /
+2014-08-07 03:43:14 [DEBUG] [limitReqModules] address / match reg .* IP 192.168.11.58 GET /
+2014-08-07 03:43:14 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /
+2014-08-07 03:43:14 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Images/shouye.jpg
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] address /Public/Images/shouye.jpg match reg .* IP 192.168.11.58 GET /Public/Images/shouye.jpg
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /Public/Images/shouye.jpg
+2014-08-07 03:43:15 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Images/shouye.jpg
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] address /favicon.ico match reg .* IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] newReqTimes 3 IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:15 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] address /favicon.ico match reg .* IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:15 [DEBUG] [limitReqModules] newReqTimes 4 IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:15 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /favicon.ico
+2014-08-07 03:43:26 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php
+2014-08-07 03:43:26 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php
+2014-08-07 03:43:26 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /index.php
+2014-08-07 03:43:26 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Css/style.css
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Home/Tpl/Css/style.css match reg .* IP 192.168.11.58 GET /Home/Tpl/Css/style.css
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 3 IP 192.168.11.58 GET /Home/Tpl/Css/style.css
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Css/style.css
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Css/jquery.jscrollpane.css
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Home/Tpl/Css/jquery.jscrollpane.css match reg .* IP 192.168.11.58 GET /Home/Tpl/Css/jquery.jscrollpane.css
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 4 IP 192.168.11.58 GET /Home/Tpl/Css/jquery.jscrollpane.css
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Css/jquery.jscrollpane.css
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Public/Plugins/jquery.plugins.js match reg .* IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 5 IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/jquery.jscrollpane.min.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Home/Tpl/Js/jquery.jscrollpane.min.js match reg .* IP 192.168.11.58 GET /Home/Tpl/Js/jquery.jscrollpane.min.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 6 IP 192.168.11.58 GET /Home/Tpl/Js/jquery.jscrollpane.min.js
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/jquery.jscrollpane.min.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/jquery.mousewheel.min.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Home/Tpl/Js/jquery.mousewheel.min.js match reg .* IP 192.168.11.58 GET /Home/Tpl/Js/jquery.mousewheel.min.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 7 IP 192.168.11.58 GET /Home/Tpl/Js/jquery.mousewheel.min.js
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/jquery.mousewheel.min.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/script.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Home/Tpl/Js/script.js match reg .* IP 192.168.11.58 GET /Home/Tpl/Js/script.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 8 IP 192.168.11.58 GET /Home/Tpl/Js/script.js
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/script.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Images/shouye1.jpg
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Public/Images/shouye1.jpg match reg .* IP 192.168.11.58 GET /Public/Images/shouye1.jpg
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 9 IP 192.168.11.58 GET /Public/Images/shouye1.jpg
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Images/shouye1.jpg
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Home/Tpl/Js/qqonline.js match reg .* IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 10 IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Images/shouye3.jpg
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] address /Public/Images/shouye3.jpg match reg .* IP 192.168.11.58 GET /Public/Images/shouye3.jpg
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] newReqTimes 11 IP 192.168.11.58 GET /Public/Images/shouye3.jpg
+2014-08-07 03:43:28 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Public/Images/shouye3.jpg
+2014-08-07 03:43:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Images/shouye3.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Css/base.css
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Css/base.css
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407383010485
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407383010485
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.base.css
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.base.css
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407383010508
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407383010508
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:28 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:28 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:32 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:32 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:38 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:38 [DEBUG] [takeAction] return captchaAction IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:38 [DEBUG] [getCaptcha] get random num 1013 IP  GET /get-captcha.jpg
+2014-08-07 03:43:38 [DEBUG] [getCaptcha] get captchaValue 3c2pa IP  GET /get-captcha.jpg
+2014-08-07 03:43:45 [DEBUG] [verifyCaptcha] get cookie captchaNum 1013 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:43:45 [DEBUG] [verifyCaptcha] get post arg response 3c2pa IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:43:45 [DEBUG] [verifyCaptcha] captcha is valid.delete from blacklist IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:43:45 [DEBUG] [verifyCaptcha] expire 1407383625 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:43:45 [DEBUG] [verifyCaptcha] captchaKey 256a9ba8b7 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Public/Plugins/jquery.plugins.js match reg .* IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Home/Tpl/Js/qqonline.js match reg .* IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 3 IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Public/Upload/20140322/46955261532d3227c6061.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 4 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Public/Upload/20140324/24114685532fdb2ad2508.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 5 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Public/Images/shouye2.jpg match reg .* IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 6 IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Images/shouye2.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Css/base.css
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Home/Tpl/Css/base.css match reg .* IP 192.168.11.58 GET /Home/Tpl/Css/base.css
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 7 IP 192.168.11.58 GET /Home/Tpl/Css/base.css
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Css/base.css
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407383027559
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Public/Plugins/jquery.carouFredSel.js match reg .* IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407383027559
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 8 IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407383027559
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407383027559
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.base.css
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Public/Plugins/fancybox/jquery.fancybox.base.css match reg .* IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.base.css
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 9 IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.base.css
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.base.css
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407383027588
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Public/Plugins/fancybox/jquery.fancybox.js match reg .* IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407383027588
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 10 IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407383027588
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407383027588
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Home/Tpl/Img/button.png match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 11 IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/button.png
+2014-08-07 03:43:45 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [takeAction] now 1407383025 IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Home/Tpl/Img/yika_logo.png match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 12 IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 03:43:45 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [takeAction] now 1407383025 IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] address /Home/Tpl/Img/nav_bg.jpg match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] newReqTimes 13 IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/nav_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] now 1407383026 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] address /Public/Upload/20140324/24114685532fdb2ad2508.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] newReqTimes 14 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 03:43:46 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] now 1407383026 IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] address /Home/Tpl/Img/events_more_info.png match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] newReqTimes 15 IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/events_more_info.png
+2014-08-07 03:43:46 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] now 1407383026 IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] address /Home/Tpl/Img/find_events.png match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] newReqTimes 16 IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/find_events.png
+2014-08-07 03:43:46 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] now 1407383026 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] address /Home/Tpl/Img/update_buttons.png match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] newReqTimes 17 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 03:43:46 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] now 1407383026 IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] address /Home/Tpl/Img/dialog_bg.jpg match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] newReqTimes 18 IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/dialog_bg.jpg
+2014-08-07 03:43:46 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] now 1407383026 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] address /Public/Upload/20140322/46955261532d3227c6061.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] newReqTimes 19 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:43:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 03:44:08 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [takeAction] now 1407383048 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:08 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:44:17 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [takeAction] now 1407383057 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [takeAction] key_make 256a9ba8b7 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [takeAction] cookie key is valid. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:44:17 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc/passwd
+2014-08-07 03:45:43 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:43 [DEBUG] [takeAction] cookie_expire 1407383625 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:43 [DEBUG] [takeAction] cookie_key 256a9ba8b7 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:43 [DEBUG] [takeAction] now 1407383143 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:43 [DEBUG] [takeAction] key_make a6f75010d0 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:43 [DEBUG] [takeAction] cookie key is invalid IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:44 [DEBUG] [getCaptcha] get random num 1227 IP  GET /get-captcha.jpg
+2014-08-07 03:45:44 [DEBUG] [getCaptcha] get captchaValue 441if IP  GET /get-captcha.jpg
+2014-08-07 03:45:54 [DEBUG] [verifyCaptcha] get cookie captchaNum 1227 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:45:54 [DEBUG] [verifyCaptcha] get post arg response 441if IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:45:54 [DEBUG] [verifyCaptcha] captcha is valid.delete from blacklist IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:45:54 [DEBUG] [verifyCaptcha] expire 1407383754 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:45:54 [DEBUG] [verifyCaptcha] captchaKey 4e8e337f1a IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 03:45:55 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:55 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:55 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:55 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:58 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:58 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:58 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:45:58 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=etc
+2014-08-07 03:46:04 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=passwd
+2014-08-07 03:46:04 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index?s=passwd
+2014-08-07 03:46:04 [DEBUG] [limitReqModules] newReqTimes 3 IP 192.168.11.58 GET /index.php?s=/Home-index?s=passwd
+2014-08-07 03:46:04 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?s=passwd
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Public/Plugins/jquery.plugins.js match reg .* IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.plugins.js?carouFredSel&fancybox
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Home/Tpl/Js/qqonline.js match reg .* IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 3 IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Js/qqonline.js
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Public/Upload/20140324/24114685532fdb2ad2508.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 4 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Public/Upload/20140322/46955261532d3227c6061.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 5 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407396046928
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Public/Plugins/jquery.carouFredSel.js match reg .* IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407396046928
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 6 IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407396046928
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/jquery.carouFredSel.js?_=1407396046928
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407396046970
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Public/Plugins/fancybox/jquery.fancybox.js match reg .* IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407396046970
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 7 IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407396046970
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Plugins/fancybox/jquery.fancybox.js?_=1407396046970
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Home/Tpl/Img/yika_logo.png match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 8 IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/yika_logo.png
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Public/Upload/20140324/24114685532fdb2ad2508.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 9 IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140324/24114685532fdb2ad2508.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Public/Upload/20140322/46955261532d3227c6061.jpg match reg .* IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 10 IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Public/Upload/20140322/46955261532d3227c6061.jpg
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] address /Home/Tpl/Img/update_buttons.png match reg .* IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] newReqTimes 11 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 07:20:45 [DEBUG] [limitReqModules] ip 192.168.11.58 request exceed 10 IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 07:20:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /Home/Tpl/Img/update_buttons.png
+2014-08-07 07:21:00 [DEBUG] [blackListModules] ip 192.168.11.58 in blacklist IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:00 [DEBUG] [takeAction] cookie_expire 1407383754 IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:00 [DEBUG] [takeAction] cookie_key 4e8e337f1a IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:00 [DEBUG] [takeAction] now 1407396060 IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:00 [DEBUG] [takeAction] key_make b740f9ca80 IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:00 [DEBUG] [takeAction] cookie key is invalid IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:01 [DEBUG] [getCaptcha] get random num 8109 IP  GET /get-captcha.jpg
+2014-08-07 07:21:01 [DEBUG] [getCaptcha] get captchaValue smip9 IP  GET /get-captcha.jpg
+2014-08-07 07:21:06 [DEBUG] [verifyCaptcha] get cookie captchaNum 8109 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 07:21:06 [DEBUG] [verifyCaptcha] get post arg response smip9 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 07:21:06 [DEBUG] [verifyCaptcha] captcha is valid.delete from blacklist IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 07:21:06 [DEBUG] [verifyCaptcha] expire 1407396666 IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 07:21:06 [DEBUG] [verifyCaptcha] captchaKey 6576aa32ff IP 192.168.11.58 GET /verify-captcha.jpg
+2014-08-07 07:21:07 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:07 [DEBUG] [limitReqModules] address /index.php match reg .* IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:07 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:21:07 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /index.php?s=/Home-index?union
+2014-08-07 07:24:38 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:24:38 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 07:24:38 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 07:24:38 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:25:13 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:25:13 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 07:25:13 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 07:25:13 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:25:20 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp?user=aaa
+2014-08-07 07:25:20 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp?user=aaa
+2014-08-07 07:25:20 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /html_form_action.asp?user=aaa
+2014-08-07 07:25:20 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp?user=aaa
+2014-08-07 07:31:16 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:31:16 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 07:31:16 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 07:31:16 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:31:27 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:31:27 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:31:27 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:31:27 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:08 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:08 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:08 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:08 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:41 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:41 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:41 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:41 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:47:41 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:49:35 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:49:35 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:49:35 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:49:35 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:49:35 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:50:24 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:50:24 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 07:50:24 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 07:50:24 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:50:24 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 07:50:31 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:50:31 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:50:31 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:50:31 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:50:31 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:53:19 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:53:19 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:53:19 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:53:19 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:53:19 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:26 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:26 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:26 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:26 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:26 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:44 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:44 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:44 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:44 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:54:44 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:55:57 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:55:57 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:55:57 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:55:57 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:55:57 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:17 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:17 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:17 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:17 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:17 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:51 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:51 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:51 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:51 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 07:58:51 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:04:11 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:04:11 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:04:11 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:04:11 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:04:11 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:05:02 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 09:05:02 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 09:05:02 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 09:05:02 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 09:05:02 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 09:05:08 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:05:08 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:05:08 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:05:08 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:05:08 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:05 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:05 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:05 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:05 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:05 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:27 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:27 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:27 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:27 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:07:27 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:10:52 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:10:52 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:10:52 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:10:52 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:10:52 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:11:07 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:11:07 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:11:07 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:11:07 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:11:07 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:13:17 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:13:17 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:13:17 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:13:17 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:13:17 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:14:58 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:14:58 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:14:58 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:16:20 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:16:20 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:16:20 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:17:02 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:17:02 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:17:02 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:19:33 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:19:33 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:19:33 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:20:25 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:20:25 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:20:25 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:21:07 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:21:07 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:21:07 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:21:07 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:21:07 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:22:54 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:22:54 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:22:54 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:24:51 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:24:51 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:24:51 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:24:51 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:24:51 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:27:53 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:27:53 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:27:53 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:29:13 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:29:13 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:29:13 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:30:02 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:30:02 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:30:02 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:30:15 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:30:15 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:30:15 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:41:10 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:41:10 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:41:10 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:41:10 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:41:10 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:42:11 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:42:11 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:42:11 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:42:11 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:42:11 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:46:26 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:46:26 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:46:26 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:46:26 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:47:10 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:47:10 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:47:10 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:47:10 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:21 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:21 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:21 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:21 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:57 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:57 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:57 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:52:57 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:59:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:59:46 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:59:46 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 09:59:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:21 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:21 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:21 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:21 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:52 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:01:52 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:01:52 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 10:01:52 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:01:55 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:55 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:55 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:01:55 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:02:21 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:02:21 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:02:21 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 10:02:21 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:02:28 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:02:28 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:02:28 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:02:28 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:03:27 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:03:27 [DEBUG] [limitReqModules] address /html_form_action.asp match reg .* IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:03:27 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:03:27 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /html_form_action.asp
+2014-08-07 10:03:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /
+2014-08-07 10:03:45 [DEBUG] [limitReqModules] address / match reg .* IP 192.168.11.58 GET /
+2014-08-07 10:03:45 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /
+2014-08-07 10:03:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /
+2014-08-07 10:04:21 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:04:21 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:04:21 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 10:04:21 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:04:27 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:04:27 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:04:27 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /test.html
+2014-08-07 10:04:27 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:01 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:01 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:01 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:01 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:03 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:03 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:03 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:03 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:32 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:32 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:32 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:32 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:05:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:05:46 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:05:46 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:05:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:06 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:06 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:06 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:06 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:16 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:06:16 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:06:16 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /test.html
+2014-08-07 10:06:16 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:06:18 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:18 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:18 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:18 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:38 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:38 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:38 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:38 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:40 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:40 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:40 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:40 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:41 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:41 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:41 [DEBUG] [limitReqModules] newReqTimes 3 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:41 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:42 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:42 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:42 [DEBUG] [limitReqModules] newReqTimes 4 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:42 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:43 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:43 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:43 [DEBUG] [limitReqModules] newReqTimes 5 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:43 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:44 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:44 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:44 [DEBUG] [limitReqModules] newReqTimes 6 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:44 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:45 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:45 [DEBUG] [limitReqModules] newReqTimes 7 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:46 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:46 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:46 [DEBUG] [limitReqModules] newReqTimes 8 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:46 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:47 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:47 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:47 [DEBUG] [limitReqModules] newReqTimes 9 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:47 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:48 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:48 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:48 [DEBUG] [limitReqModules] newReqTimes 10 IP 192.168.11.58 GET /dafa
+2014-08-07 10:06:48 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:22 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:22 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:22 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:22 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:36 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:07:36 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:07:36 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 10:07:36 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:07:40 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:40 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:40 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /dafa
+2014-08-07 10:07:40 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:41 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:41 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:41 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:41 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:57 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:57 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:57 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:08:57 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:09:43 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:09:43 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:09:43 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:09:43 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:14:37 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:14:37 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:14:37 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:14:37 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:15:45 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:15:45 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:15:45 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:15:45 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:16:51 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:16:51 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:16:51 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:16:51 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:17:06 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa?aa=dd
+2014-08-07 10:17:06 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa?aa=dd
+2014-08-07 10:17:06 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa?aa=dd
+2014-08-07 10:17:06 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa?aa=dd
+2014-08-07 10:17:58 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:17:58 [DEBUG] [limitReqModules] address /test.html match reg .* IP 192.168.11.58 GET /test.html
+2014-08-07 10:17:58 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /test.html
+2014-08-07 10:17:58 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /test.html
+2014-08-07 10:18:01 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:18:01 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:18:01 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /dafa
+2014-08-07 10:18:01 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:27:56 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:27:56 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:27:56 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:27:56 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:12 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:12 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:12 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:12 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:18 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:18 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:18 [DEBUG] [limitReqModules] newReqTimes 2 IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:18 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:27 [DEBUG] [limitReqModules] limitReqModules is on. IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:27 [DEBUG] [limitReqModules] address /dafa match reg .* IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:27 [DEBUG] [limitReqModules] newReqTimes 1 IP 192.168.11.58 GET /dafa
+2014-08-07 10:29:27 [DEBUG] [uriFilterModules] uriFilterModules is on. IP 192.168.11.58 GET /dafa
