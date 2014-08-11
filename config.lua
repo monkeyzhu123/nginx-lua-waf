@@ -9,7 +9,7 @@ local Config = {
 	-- state : 为此模块的状态，表示开启或关闭，可选值为On或Off;
 	-- maxReqs，amongTime : 在amongTime秒内允许请求的最大次数maxReqs，如默认的是在10s内最大允许请求50次。
 	-- urlProtect : 指定限制请求次数的url正则表达式文件，默认值为\.php$，表示只限制php的请求(当然，当urlMatchMode = "uri"时，此正则才能起作用)
-	limitReqModules = { state = "On" , maxReqs = 10 , amongTime = 10, urlProtect = baseDir.."url-protect/limit.txt" },
+	limitReqModules = { state = "On" , maxReqs = 4 , amongTime = 10, urlProtect = baseDir.."url-protect/limit.txt" },
 
 
 	-- 主动防御,302响应头跳转模块。利用cc控制端不支持解析响应头的特点，来识别是否为正常用户，当有必要时才建议开启。
@@ -17,7 +17,7 @@ local Config = {
 	-- verifyMaxFail  amongTime : 因为此模块会发送带有cckey及keyexpire的302响应头，如果访客在amongTime时间内超过verifyMaxFail次没有跳转到302响应头里的url，就会被添加到黑名单，默认值为5次。
 	-- keySecret : 用于生成token的密码,如果上面的keyDefine为dynamic，就不需要修改
 	-- urlProtect  同limitReqModules模块中的urlProtect的解释。
-	redirectModules = { state = "Off" ,verifyMaxFail = 5, keySecret = 'yK48J276hg', amongTime = 60 ,urlProtect = baseDir.."url-protect/302.txt"},
+	redirectModules = { state = "On" ,verifyMaxFail = 5, keySecret = 'yK48J276hg', amongTime = 60 ,urlProtect = baseDir.."url-protect/302.txt"},
 
 
 	-- 主动防御,发送js跳转代码模块。利用cc控制端无法解析js跳转的特点，来识别是否为正常用户，当有必要时才建议开启。

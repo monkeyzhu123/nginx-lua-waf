@@ -560,6 +560,7 @@ end
 
  --验证验证码
 function Guard:verifyCaptcha(ip)
+	local limitReqKey = ip.."limitreqkey"
 	ngx.req.read_body()
 	local captchaNum = ngx.var["cookie_captchaNum"] --获取cookie captchaNum值
 	local preurl = ngx.var["cookie_preurl"] --获取上次访问url
@@ -572,7 +573,10 @@ function Guard:verifyCaptcha(ip)
 	if captchaValue == postValue then --比较验证码是否相等
 		self:debug("[verifyCaptcha] captcha is valid.delete from blacklist",ip,"")
 		_Conf.dict:delete(ip.."black") --从黑名单删除
-		_Conf.dict:delete(ip.."limitreqkey") --访问记录删除
+		self:debug("[--------------------------------------------------------] captcha is valid.delete from blacklist",_Conf.limitReqModules.amongTime,"")
+		--_Conf.dict:delete(ip.."limitreqkey") --访问记录删除
+		_Conf.dict:delete(limitReqKey)
+		_Conf.dict:set(limitReqKey, 1, _Conf.limitReqModules.amongTime)--重新计数
 		local expire = ngx.time() + _Conf.keyExpire
 		local captchaKey = ngx.md5(table.concat({ip,_Conf.captchaKey,expire}))
 		local captchaKey = string.sub(captchaKey,"1","10")
@@ -617,8 +621,10 @@ function Guard:takeAction(ip,reqUri)
 			self:debug("[takeAction] cookie_key "..cookie_key,ip,reqUri)
 			self:debug("[takeAction] now "..now,ip,reqUri)
 			self:debug("[takeAction] key_make "..key_make,ip,reqUri)
+			self:debug("[takeAction] key_make "..now,ip,now)
 			if tonumber(cookie_expire) > now and cookie_key == key_make then
 				self:debug("[takeAction] cookie key is valid.",ip,reqUri)
+				--self:captchaAction(reqUri)
 				return
 			else
 				self:debug("[takeAction] cookie key is invalid",ip,reqUri)
