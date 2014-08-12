@@ -1,9 +1,20 @@
-参考了ngx_lua_waf
-https://github.com/centos-bz/HttpGuard
+参考了：https://github.com/centos-bz/HttpGuard
 
 该模块需要nginx lua支持，可以直接使用openresty安装使用。
 http://openresty.com/
 
 具体使用直接参考HttpGuard的使用，这个包是在HttpGuard基础上添加的
 其中包括有url过滤和post提交参数过滤。
+
+
+
+具体功能：
+    限制访客在一定时间内的请求次数
+    向访客发送302转向响应头来识别是否是恶意用户,并阻止其再次访问
+    向访客发送带有跳转功能的js代码来识别是否是恶意用户，并阻止其再次访问
+    支持向访客发送带有验证码的页面，来进一步识别，以免误伤
+    支持直接断开恶意访客的连接
+    支持结合iptables来阻止恶意访客再次连接
+    支持白名单功能
+    支持根据统计特定端口的连接数来自动开启或关闭防cc模式
 
